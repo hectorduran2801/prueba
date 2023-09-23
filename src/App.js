@@ -9,13 +9,13 @@ function App() {
     const url = "https://appointment.ena.com.pa/api/Informacion/recibir";
     const data = {
       Informacion: {
-        Name: "vane",
+        Name: "vanessa carolina",
         Apellido: "sarmiento",
         Cedula: "171985331",
         Email: "hduranc24@gmail.com",
         Celular: "69271957",
         Telefono: "69271957",
-        Placa: "MI2001",
+        Placa: "ak0001",
         Corregimiento: "NA",
         Edificio: "NA",
         Calle: "NA",
@@ -39,7 +39,7 @@ function App() {
         DocumentoAutorizacion: "NA",
       },
       Comentario: {
-        Mensaje: "esto fue vanessa desde azure",
+        Mensaje: "prueba desde azure",
       },
     };
 
