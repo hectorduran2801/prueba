@@ -10,11 +10,11 @@ function App() {
     const data = {
       Informacion: {
         Name: "vanessa carolina",
-        Apellido: "sarmiento",
-        Cedula: "171985331",
-        Email: "hduranc24@gmail.com",
-        Celular: "69271957",
-        Telefono: "69271957",
+        Apellido: "sarmiento ROJAS",
+        Cedula: "00000000",
+        Email: "vaneSaRMIENTO@gmail.com",
+        Celular: "00000000000",
+        Telefono: "000000000",
         Placa: "ak0001",
         Corregimiento: "NA",
         Edificio: "NA",
@@ -39,7 +39,7 @@ function App() {
         DocumentoAutorizacion: "NA",
       },
       Comentario: {
-        Mensaje: "prueba desde azure",
+        Mensaje: "HACIENDO PEGADOA https://appointment.ena.com.pa/api/Informacion/recibir DESDE URL",
       },
     };
 
